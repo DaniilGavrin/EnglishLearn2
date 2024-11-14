@@ -1,7 +1,7 @@
 import json
 
 # Пути к исходным файлам
-files = ['translated_words.json', 'translated_words2.json', 'translated_words3.json', 'translated_words4.json']
+files = ['assets/words.json', 'merged_translated_words_no_duplicates.json']
 
 # Список для хранения всех словарных пар
 all_words = []

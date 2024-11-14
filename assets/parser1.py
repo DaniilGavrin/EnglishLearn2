@@ -2,8 +2,7 @@ import json
 
 # Список файлов для обработки
 files = [
-    'assets/words.json',
-    'merged_translated_words_no_duplicates.json'
+    'assets/words.json'
 ]
 
 # Функция для подсчета пар слов

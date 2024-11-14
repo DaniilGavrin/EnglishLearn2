@@ -1,7 +1,7 @@
 import json
 
 # Загрузим содержимое файла merged_translated_words.json
-with open('merged_translated_words_no_duplicates.json', 'r', encoding='utf-8') as f:
+with open('merged_translated_words.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 # Преобразуем список слов в множество для удаления дубликатов
@@ -15,7 +15,7 @@ for item in data:
         seen.add(word_translation)
 
 # Запишем обновлённый список без дубликатов обратно в файл
-with open('merged_translated_words_no_duplicates2.json', 'w', encoding='utf-8') as f:
+with open('merged_translated_words_no_duplicates.json', 'w', encoding='utf-8') as f:
     json.dump(unique_data, f, ensure_ascii=False, indent=2)
 
 print(f'Удалено {len(data) - len(unique_data)} дубликатов.')
