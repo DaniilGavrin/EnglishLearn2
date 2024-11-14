@@ -14,6 +14,58 @@
     {
       "word": "cat",
       "translation": "кот"
+    },
+    {
+      "word": "dog",
+      "translation": "собака"
+    },
+    {
+      "word": "tree",
+      "translation": "дерево"
+    },
+    {
+      "word": "flower",
+      "translation": "цветок"
+    },
+    {
+      "word": "book",
+      "translation": "книга"
+    },
+    {
+      "word": "mountain",
+      "translation": "гора"
+    },
+    {
+      "word": "sun",
+      "translation": "солнце"
+    },
+    {
+      "word": "moon",
+      "translation": "луна"
+    },
+    {
+      "word": "water",
+      "translation": "вода"
+    },
+    {
+      "word": "air",
+      "translation": "воздух"
+    },
+    {
+      "word": "fire",
+      "translation": "огонь"
+    },
+    {
+      "word": "earth",
+      "translation": "земля"
+    },
+    {
+      "word": "sky",
+      "translation": "небо"
+    },
+    {
+      "word": "rain",
+      "translation": "дождь"
     }
   ]
   
