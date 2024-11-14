@@ -30,17 +30,7 @@ android {
         versionName = flutter.versionName
     }
 
-    flavorDimensions "version"
-    productFlavors {
-        dev {
-            dimension "version"
-            applicationIdSuffix ".dev" // Добавляем суффикс к applicationId для dev сборки
-            versionNameSuffix "-dev"   // Суффикс для версии
-        }
-        prod {
-            dimension "version"
-        }
-    }
+    
 
     buildTypes {
         release {

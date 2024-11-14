@@ -293,7 +293,7 @@ class _MainScreenState extends State<MainScreen> {
                   isReviewMode
                       ? 'Введите перевод для: $currentTranslation'
                       : 'Введите перевод для: $currentWord',
-                  style: TextStyle(fontSize: 20),
+                  style: TextStyle(fontSize: 20, color: const Color.fromARGB(255, 95, 178, 247)),
                 ),
                 SizedBox(height: 10),
                 TextField(
@@ -310,11 +310,25 @@ class _MainScreenState extends State<MainScreen> {
                     ElevatedButton(
                       onPressed: checkAnswer,
                       child: Text(isReviewMode ? 'Проверить' : 'Ответить'),
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: const Color.fromARGB(255, 95, 178, 247),
+                        padding: EdgeInsets.symmetric(horizontal: 20.0),
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(15.0),
+                        ),
+                      ),
                     ),
                     SizedBox(width: 10),
                     ElevatedButton(
                       onPressed: isReviewMode ? returnToMainMenu : openReviewMode,
                       child: Text(isReviewMode ? 'Главное меню' : 'Режим проверки'),
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: const Color.fromARGB(255, 156, 70, 48),
+                        padding: EdgeInsets.symmetric(horizontal: 20.0),
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(18.0),
+                        ),
+                      ),
                     ),
                   ],
                 ),
