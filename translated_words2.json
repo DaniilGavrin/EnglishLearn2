@@ -1,0 +1,1322 @@
+[
+  {
+    "word": "река",
+    "translation": "river"
+  },
+  {
+    "word": "озеро",
+    "translation": "lake"
+  },
+  {
+    "word": "лес",
+    "translation": "forest"
+  },
+  {
+    "word": "гора",
+    "translation": "mountain"
+  },
+  {
+    "word": "пустыня",
+    "translation": "desert"
+  },
+  {
+    "word": "пляж",
+    "translation": "beach"
+  },
+  {
+    "word": "остров",
+    "translation": "island"
+  },
+  {
+    "word": "океан",
+    "translation": "ocean"
+  },
+  {
+    "word": "водопад",
+    "translation": "waterfall"
+  },
+  {
+    "word": "болото",
+    "translation": "swamp"
+  },
+  {
+    "word": "луга",
+    "translation": "meadows"
+  },
+  {
+    "word": "ручей",
+    "translation": "stream"
+  },
+  {
+    "word": "поле",
+    "translation": "field"
+  },
+  {
+    "word": "пещера",
+    "translation": "cave"
+  },
+  {
+    "word": "скала",
+    "translation": "rock"
+  },
+  {
+    "word": "берег",
+    "translation": "shore"
+  },
+  {
+    "word": "облако",
+    "translation": "cloud"
+  },
+  {
+    "word": "звезда",
+    "translation": "star"
+  },
+  {
+    "word": "луна",
+    "translation": "moon"
+  },
+  {
+    "word": "солнце",
+    "translation": "Sun"
+  },
+  {
+    "word": "небо",
+    "translation": "sky"
+  },
+  {
+    "word": "вода",
+    "translation": "water"
+  },
+  {
+    "word": "земля",
+    "translation": "Earth"
+  },
+  {
+    "word": "кот",
+    "translation": "cat"
+  },
+  {
+    "word": "собака",
+    "translation": "dog"
+  },
+  {
+    "word": "корова",
+    "translation": "cow"
+  },
+  {
+    "word": "лошадь",
+    "translation": "horse"
+  },
+  {
+    "word": "овца",
+    "translation": "sheep"
+  },
+  {
+    "word": "свинья",
+    "translation": "pig"
+  },
+  {
+    "word": "курица",
+    "translation": "chicken"
+  },
+  {
+    "word": "утка",
+    "translation": "duck"
+  },
+  {
+    "word": "гусь",
+    "translation": "goose"
+  },
+  {
+    "word": "кролик",
+    "translation": "rabbit"
+  },
+  {
+    "word": "белка",
+    "translation": "squirrel"
+  },
+  {
+    "word": "медведь",
+    "translation": "bear"
+  },
+  {
+    "word": "волк",
+    "translation": "wolf"
+  },
+  {
+    "word": "лиса",
+    "translation": "fox"
+  },
+  {
+    "word": "тигр",
+    "translation": "tiger"
+  },
+  {
+    "word": "лев",
+    "translation": "lion"
+  },
+  {
+    "word": "слон",
+    "translation": "elephant"
+  },
+  {
+    "word": "жираф",
+    "translation": "giraffe"
+  },
+  {
+    "word": "обезьяна",
+    "translation": "monkey"
+  },
+  {
+    "word": "птица",
+    "translation": "bird"
+  },
+  {
+    "word": "змея",
+    "translation": "snake"
+  },
+  {
+    "word": "акула",
+    "translation": "shark"
+  },
+  {
+    "word": "рыба",
+    "translation": "fish"
+  },
+  {
+    "word": "кит",
+    "translation": "whale"
+  },
+  {
+    "word": "дельфин",
+    "translation": "dolphin"
+  },
+  {
+    "word": "мать",
+    "translation": "mother"
+  },
+  {
+    "word": "отец",
+    "translation": "father"
+  },
+  {
+    "word": "брат",
+    "translation": "Brother"
+  },
+  {
+    "word": "сестра",
+    "translation": "sister"
+  },
+  {
+    "word": "дедушка",
+    "translation": "grandfather"
+  },
+  {
+    "word": "бабушка",
+    "translation": "grandmother"
+  },
+  {
+    "word": "сын",
+    "translation": "son"
+  },
+  {
+    "word": "дочь",
+    "translation": "daughter"
+  },
+  {
+    "word": "муж",
+    "translation": "husband"
+  },
+  {
+    "word": "жена",
+    "translation": "wife"
+  },
+  {
+    "word": "друг",
+    "translation": "Friend"
+  },
+  {
+    "word": "подруга",
+    "translation": "girlfriend"
+  },
+  {
+    "word": "сосед",
+    "translation": "neighbour"
+  },
+  {
+    "word": "коллега",
+    "translation": "colleague"
+  },
+  {
+    "word": "партнёр",
+    "translation": "partner"
+  },
+  {
+    "word": "начальник",
+    "translation": "boss"
+  },
+  {
+    "word": "ребёнок",
+    "translation": "child"
+  },
+  {
+    "word": "родитель",
+    "translation": "parent"
+  },
+  {
+    "word": "семья",
+    "translation": "family"
+  },
+  {
+    "word": "родственник",
+    "translation": "relative"
+  },
+  {
+    "word": "человек",
+    "translation": "Human"
+  },
+  {
+    "word": "любовь",
+    "translation": "Love"
+  },
+  {
+    "word": "радость",
+    "translation": "joy"
+  },
+  {
+    "word": "грусть",
+    "translation": "sadness"
+  },
+  {
+    "word": "злость",
+    "translation": "anger"
+  },
+  {
+    "word": "страх",
+    "translation": "fear"
+  },
+  {
+    "word": "удивление",
+    "translation": "astonishment"
+  },
+  {
+    "word": "восхищение",
+    "translation": "admiration"
+  },
+  {
+    "word": "интерес",
+    "translation": "interest"
+  },
+  {
+    "word": "зависть",
+    "translation": "envy"
+  },
+  {
+    "word": "гордость",
+    "translation": "pride"
+  },
+  {
+    "word": "сожаление",
+    "translation": "regret"
+  },
+  {
+    "word": "надежда",
+    "translation": "hope"
+  },
+  {
+    "word": "сомнение",
+    "translation": "doubt"
+  },
+  {
+    "word": "уверенность",
+    "translation": "confidence"
+  },
+  {
+    "word": "терпение",
+    "translation": "patience"
+  },
+  {
+    "word": "энтузиазм",
+    "translation": "enthusiasm"
+  },
+  {
+    "word": "тоска",
+    "translation": "yearning"
+  },
+  {
+    "word": "спокойствие",
+    "translation": "calm"
+  },
+  {
+    "word": "волнение",
+    "translation": "excitement"
+  },
+  {
+    "word": "год",
+    "translation": "year"
+  },
+  {
+    "word": "месяц",
+    "translation": "month"
+  },
+  {
+    "word": "день",
+    "translation": "day"
+  },
+  {
+    "word": "час",
+    "translation": "hour"
+  },
+  {
+    "word": "минута",
+    "translation": "minute"
+  },
+  {
+    "word": "секунда",
+    "translation": "second"
+  },
+  {
+    "word": "утро",
+    "translation": "morning"
+  },
+  {
+    "word": "день",
+    "translation": "day"
+  },
+  {
+    "word": "вечер",
+    "translation": "evening"
+  },
+  {
+    "word": "ночь",
+    "translation": "night"
+  },
+  {
+    "word": "сегодня",
+    "translation": "Today"
+  },
+  {
+    "word": "завтра",
+    "translation": "Tomorrow"
+  },
+  {
+    "word": "вчера",
+    "translation": "yesterday"
+  },
+  {
+    "word": "неделя",
+    "translation": "week"
+  },
+  {
+    "word": "выходные",
+    "translation": "weekend"
+  },
+  {
+    "word": "праздник",
+    "translation": "holiday"
+  },
+  {
+    "word": "сезон",
+    "translation": "season"
+  },
+  {
+    "word": "весна",
+    "translation": "spring"
+  },
+  {
+    "word": "лето",
+    "translation": "summer"
+  },
+  {
+    "word": "осень",
+    "translation": "autumn"
+  },
+  {
+    "word": "зима",
+    "translation": "winter"
+  },
+  {
+    "word": "полночь",
+    "translation": "midnight"
+  },
+  {
+    "word": "рассвет",
+    "translation": "dawn"
+  },
+  {
+    "word": "дом",
+    "translation": "house"
+  },
+  {
+    "word": "квартира",
+    "translation": "apartment"
+  },
+  {
+    "word": "комната",
+    "translation": "room"
+  },
+  {
+    "word": "кухня",
+    "translation": "kitchen"
+  },
+  {
+    "word": "спальня",
+    "translation": "bedroom"
+  },
+  {
+    "word": "ванная",
+    "translation": "bathroom"
+  },
+  {
+    "word": "гостиная",
+    "translation": "living room"
+  },
+  {
+    "word": "коридор",
+    "translation": "corridor"
+  },
+  {
+    "word": "подвал",
+    "translation": "basement"
+  },
+  {
+    "word": "крыша",
+    "translation": "roof"
+  },
+  {
+    "word": "балкон",
+    "translation": "balcony"
+  },
+  {
+    "word": "дверь",
+    "translation": "door"
+  },
+  {
+    "word": "окно",
+    "translation": "window"
+  },
+  {
+    "word": "стена",
+    "translation": "wall"
+  },
+  {
+    "word": "пол",
+    "translation": "floor"
+  },
+  {
+    "word": "потолок",
+    "translation": "ceiling"
+  },
+  {
+    "word": "кровать",
+    "translation": "bed"
+  },
+  {
+    "word": "диван",
+    "translation": "sofa"
+  },
+  {
+    "word": "стол",
+    "translation": "table"
+  },
+  {
+    "word": "стул",
+    "translation": "chair"
+  },
+  {
+    "word": "шкаф",
+    "translation": "closet"
+  },
+  {
+    "word": "зеркало",
+    "translation": "mirror"
+  },
+  {
+    "word": "картина",
+    "translation": "painting"
+  },
+  {
+    "word": "яблоко",
+    "translation": "apple"
+  },
+  {
+    "word": "банан",
+    "translation": "banana"
+  },
+  {
+    "word": "апельсин",
+    "translation": "orange"
+  },
+  {
+    "word": "лимон",
+    "translation": "lemon"
+  },
+  {
+    "word": "виноград",
+    "translation": "grape"
+  },
+  {
+    "word": "персик",
+    "translation": "peach"
+  },
+  {
+    "word": "арбуз",
+    "translation": "watermelon"
+  },
+  {
+    "word": "дыня",
+    "translation": "melon"
+  },
+  {
+    "word": "огурец",
+    "translation": "cucumber"
+  },
+  {
+    "word": "помидор",
+    "translation": "tomato"
+  },
+  {
+    "word": "морковь",
+    "translation": "carrot"
+  },
+  {
+    "word": "картофель",
+    "translation": "potato"
+  },
+  {
+    "word": "лук",
+    "translation": "onion"
+  },
+  {
+    "word": "чеснок",
+    "translation": "garlic"
+  },
+  {
+    "word": "мясо",
+    "translation": "meat"
+  },
+  {
+    "word": "рыба",
+    "translation": "fish"
+  },
+  {
+    "word": "курица",
+    "translation": "chicken"
+  },
+  {
+    "word": "хлеб",
+    "translation": "bread"
+  },
+  {
+    "word": "масло",
+    "translation": "oil"
+  },
+  {
+    "word": "сыр",
+    "translation": "cheese"
+  },
+  {
+    "word": "яйцо",
+    "translation": "egg"
+  },
+  {
+    "word": "сахар",
+    "translation": "sugar"
+  },
+  {
+    "word": "молоко",
+    "translation": "milk"
+  },
+  {
+    "word": "вода",
+    "translation": "water"
+  },
+  {
+    "word": "сок",
+    "translation": "juice"
+  },
+  {
+    "word": "чай",
+    "translation": "tea"
+  },
+  {
+    "word": "кофе",
+    "translation": "coffee"
+  },
+  {
+    "word": "суп",
+    "translation": "soup"
+  },
+  {
+    "word": "салат",
+    "translation": "salad"
+  },
+  {
+    "word": "десерт",
+    "translation": "dessert"
+  },
+  {
+    "word": "шоколад",
+    "translation": "chocolate"
+  },
+  {
+    "word": "печенье",
+    "translation": "cookie"
+  },
+  {
+    "word": "торт",
+    "translation": "cake"
+  },
+  {
+    "word": "рубашка",
+    "translation": "shirt"
+  },
+  {
+    "word": "футболка",
+    "translation": "t-shirt"
+  },
+  {
+    "word": "свитер",
+    "translation": "sweater"
+  },
+  {
+    "word": "куртка",
+    "translation": "jacket"
+  },
+  {
+    "word": "пальто",
+    "translation": "coat"
+  },
+  {
+    "word": "штаны",
+    "translation": "trousers"
+  },
+  {
+    "word": "брюки",
+    "translation": "trousers"
+  },
+  {
+    "word": "юбка",
+    "translation": "skirt"
+  },
+  {
+    "word": "платье",
+    "translation": "dress"
+  },
+  {
+    "word": "носки",
+    "translation": "socks"
+  },
+  {
+    "word": "обувь",
+    "translation": "shoes"
+  },
+  {
+    "word": "ботинки",
+    "translation": "boots"
+  },
+  {
+    "word": "кроссовки",
+    "translation": "sneakers"
+  },
+  {
+    "word": "шапка",
+    "translation": "cap"
+  },
+  {
+    "word": "перчатки",
+    "translation": "gloves"
+  },
+  {
+    "word": "шарф",
+    "translation": "scarf"
+  },
+  {
+    "word": "ремень",
+    "translation": "belt"
+  },
+  {
+    "word": "очки",
+    "translation": "glasses"
+  },
+  {
+    "word": "сумка",
+    "translation": "bag"
+  },
+  {
+    "word": "кошелёк",
+    "translation": "wallet"
+  },
+  {
+    "word": "часы",
+    "translation": "watch"
+  },
+  {
+    "word": "машина",
+    "translation": "car"
+  },
+  {
+    "word": "автобус",
+    "translation": "bus"
+  },
+  {
+    "word": "поезд",
+    "translation": "train"
+  },
+  {
+    "word": "метро",
+    "translation": "metro"
+  },
+  {
+    "word": "самолёт",
+    "translation": "airplane"
+  },
+  {
+    "word": "корабль",
+    "translation": "ship"
+  },
+  {
+    "word": "лодка",
+    "translation": "boat"
+  },
+  {
+    "word": "велосипед",
+    "translation": "bike"
+  },
+  {
+    "word": "мотоцикл",
+    "translation": "motorbike"
+  },
+  {
+    "word": "троллейбус",
+    "translation": "trolleybus"
+  },
+  {
+    "word": "трамвай",
+    "translation": "tram"
+  },
+  {
+    "word": "такси",
+    "translation": "Taxi"
+  },
+  {
+    "word": "машина",
+    "translation": "car"
+  },
+  {
+    "word": "грузовик",
+    "translation": "truck"
+  },
+  {
+    "word": "скутер",
+    "translation": "scooter"
+  },
+  {
+    "word": "авианосец",
+    "translation": "aircraft carrier"
+  },
+  {
+    "word": "подводная лодка",
+    "translation": "submarine"
+  },
+  {
+    "word": "фургон",
+    "translation": "van"
+  },
+  {
+    "word": "космический корабль",
+    "translation": "spacecraft"
+  },
+  {
+    "word": "врач",
+    "translation": "doctor"
+  },
+  {
+    "word": "медсестра",
+    "translation": "nurse"
+  },
+  {
+    "word": "учитель",
+    "translation": "teacher"
+  },
+  {
+    "word": "инженер",
+    "translation": "engineer"
+  },
+  {
+    "word": "строитель",
+    "translation": "builder"
+  },
+  {
+    "word": "юрист",
+    "translation": "lawyer"
+  },
+  {
+    "word": "программист",
+    "translation": "programmer"
+  },
+  {
+    "word": "бухгалтер",
+    "translation": "accountant"
+  },
+  {
+    "word": "секретарь",
+    "translation": "secretary"
+  },
+  {
+    "word": "повар",
+    "translation": "cook"
+  },
+  {
+    "word": "официант",
+    "translation": "waiter"
+  },
+  {
+    "word": "бармен",
+    "translation": "bartender"
+  },
+  {
+    "word": "водитель",
+    "translation": "driver"
+  },
+  {
+    "word": "полицейский",
+    "translation": "police officer"
+  },
+  {
+    "word": "пожарный",
+    "translation": "firefighter"
+  },
+  {
+    "word": "судья",
+    "translation": "judge"
+  },
+  {
+    "word": "директор",
+    "translation": "director"
+  },
+  {
+    "word": "менеджер",
+    "translation": "manager"
+  },
+  {
+    "word": "журналист",
+    "translation": "journalist"
+  },
+  {
+    "word": "фотограф",
+    "translation": "photographer"
+  },
+  {
+    "word": "дизайнер",
+    "translation": "designer"
+  },
+  {
+    "word": "архитектор",
+    "translation": "architect"
+  },
+  {
+    "word": "переводчик",
+    "translation": "translator"
+  },
+  {
+    "word": "писатель",
+    "translation": "writer"
+  },
+  {
+    "word": "художник",
+    "translation": "artist"
+  },
+  {
+    "word": "школа",
+    "translation": "school"
+  },
+  {
+    "word": "университет",
+    "translation": "university"
+  },
+  {
+    "word": "колледж",
+    "translation": "college"
+  },
+  {
+    "word": "учебник",
+    "translation": "textbook"
+  },
+  {
+    "word": "учитель",
+    "translation": "teacher"
+  },
+  {
+    "word": "ученик",
+    "translation": "student"
+  },
+  {
+    "word": "класс",
+    "translation": "Class"
+  },
+  {
+    "word": "урок",
+    "translation": "lesson"
+  },
+  {
+    "word": "лекция",
+    "translation": "lecture"
+  },
+  {
+    "word": "экзамен",
+    "translation": "exam"
+  },
+  {
+    "word": "домашнее задание",
+    "translation": "homework"
+  },
+  {
+    "word": "тест",
+    "translation": "test"
+  },
+  {
+    "word": "оценка",
+    "translation": "grade"
+  },
+  {
+    "word": "студент",
+    "translation": "student"
+  },
+  {
+    "word": "знания",
+    "translation": "knowledge"
+  },
+  {
+    "word": "образование",
+    "translation": "education"
+  },
+  {
+    "word": "учеба",
+    "translation": "studies"
+  },
+  {
+    "word": "наука",
+    "translation": "science"
+  },
+  {
+    "word": "профессор",
+    "translation": "professor"
+  },
+  {
+    "word": "компьютер",
+    "translation": "computer"
+  },
+  {
+    "word": "ноутбук",
+    "translation": "laptop"
+  },
+  {
+    "word": "телефон",
+    "translation": "telephone"
+  },
+  {
+    "word": "смартфон",
+    "translation": "smartphone"
+  },
+  {
+    "word": "планшет",
+    "translation": "tablet"
+  },
+  {
+    "word": "телевизор",
+    "translation": "TV"
+  },
+  {
+    "word": "радио",
+    "translation": "radio"
+  },
+  {
+    "word": "наушники",
+    "translation": "headphones"
+  },
+  {
+    "word": "колонки",
+    "translation": "columns"
+  },
+  {
+    "word": "фотоаппарат",
+    "translation": "camera"
+  },
+  {
+    "word": "видеокамера",
+    "translation": "camcorder"
+  },
+  {
+    "word": "принтер",
+    "translation": "printer"
+  },
+  {
+    "word": "сканер",
+    "translation": "scanner"
+  },
+  {
+    "word": "проектор",
+    "translation": "projector"
+  },
+  {
+    "word": "робот",
+    "translation": "robot"
+  },
+  {
+    "word": "дрон",
+    "translation": "drone"
+  },
+  {
+    "word": "клавиатура",
+    "translation": "keyboard"
+  },
+  {
+    "word": "мышь",
+    "translation": "mouse"
+  },
+  {
+    "word": "интернет",
+    "translation": "Internet"
+  },
+  {
+    "word": "футбол",
+    "translation": "football"
+  },
+  {
+    "word": "баскетбол",
+    "translation": "basketball"
+  },
+  {
+    "word": "волейбол",
+    "translation": "volleyball"
+  },
+  {
+    "word": "теннис",
+    "translation": "tennis"
+  },
+  {
+    "word": "бег",
+    "translation": "running"
+  },
+  {
+    "word": "плавание",
+    "translation": "swimming"
+  },
+  {
+    "word": "велоспорт",
+    "translation": "cycling"
+  },
+  {
+    "word": "лыжи",
+    "translation": "skis"
+  },
+  {
+    "word": "сноуборд",
+    "translation": "snowboard"
+  },
+  {
+    "word": "гимнастика",
+    "translation": "gymnastics"
+  },
+  {
+    "word": "йога",
+    "translation": "yoga"
+  },
+  {
+    "word": "бокс",
+    "translation": "boxing"
+  },
+  {
+    "word": "борьба",
+    "translation": "struggle"
+  },
+  {
+    "word": "карате",
+    "translation": "karate"
+  },
+  {
+    "word": "хоккей",
+    "translation": "hockey"
+  },
+  {
+    "word": "серфинг",
+    "translation": "surfing"
+  },
+  {
+    "word": "гольф",
+    "translation": "golf"
+  },
+  {
+    "word": "шахматы",
+    "translation": "chess"
+  },
+  {
+    "word": "рыбалка",
+    "translation": "fishing"
+  },
+  {
+    "word": "охота",
+    "translation": "hunting"
+  },
+  {
+    "word": "туризм",
+    "translation": "tourism"
+  },
+  {
+    "word": "музыка",
+    "translation": "music"
+  },
+  {
+    "word": "искусство",
+    "translation": "art"
+  },
+  {
+    "word": "театр",
+    "translation": "theater"
+  },
+  {
+    "word": "кино",
+    "translation": "movie"
+  },
+  {
+    "word": "балет",
+    "translation": "ballet"
+  },
+  {
+    "word": "картина",
+    "translation": "painting"
+  },
+  {
+    "word": "танец",
+    "translation": "dance"
+  },
+  {
+    "word": "фотография",
+    "translation": "photo"
+  },
+  {
+    "word": "поэзия",
+    "translation": "poetry"
+  },
+  {
+    "word": "скульптура",
+    "translation": "sculpture"
+  },
+  {
+    "word": "литература",
+    "translation": "literature"
+  },
+  {
+    "word": "журналистика",
+    "translation": "journalism"
+  },
+  {
+    "word": "история",
+    "translation": "story"
+  },
+  {
+    "word": "археология",
+    "translation": "archeology"
+  },
+  {
+    "word": "философия",
+    "translation": "philosophy"
+  },
+  {
+    "word": "язык",
+    "translation": "language"
+  },
+  {
+    "word": "фольклор",
+    "translation": "folklore"
+  },
+  {
+    "word": "легенда",
+    "translation": "legend"
+  },
+  {
+    "word": "миф",
+    "translation": "myth"
+  },
+  {
+    "word": "праздник",
+    "translation": "holiday"
+  },
+  {
+    "word": "вечеринка",
+    "translation": "party"
+  },
+  {
+    "word": "каникулы",
+    "translation": "holidays"
+  },
+  {
+    "word": "выходные",
+    "translation": "weekend"
+  },
+  {
+    "word": "рождение",
+    "translation": "birth"
+  },
+  {
+    "word": "свадьба",
+    "translation": "wedding"
+  },
+  {
+    "word": "развод",
+    "translation": "divorce"
+  },
+  {
+    "word": "юбилей",
+    "translation": "anniversary"
+  },
+  {
+    "word": "годовщина",
+    "translation": "anniversary"
+  },
+  {
+    "word": "традиция",
+    "translation": "tradition"
+  },
+  {
+    "word": "религия",
+    "translation": "religion"
+  },
+  {
+    "word": "молитва",
+    "translation": "prayer"
+  },
+  {
+    "word": "храм",
+    "translation": "temple"
+  },
+  {
+    "word": "церковь",
+    "translation": "church"
+  },
+  {
+    "word": "мечеть",
+    "translation": "mosque"
+  },
+  {
+    "word": "монастырь",
+    "translation": "monastery"
+  },
+  {
+    "word": "кладбище",
+    "translation": "cemetery"
+  },
+  {
+    "word": "знак",
+    "translation": "sign"
+  },
+  {
+    "word": "судьба",
+    "translation": "fate"
+  },
+  {
+    "word": "вера",
+    "translation": "faith"
+  }
+]

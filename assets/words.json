@@ -66,6 +66,41 @@
     {
       "word": "rain",
       "translation": "дождь"
+    },
+    {
+      "word": "snow",
+      "translation": "снег"
+    },
+    {
+      "word": "grass",
+      "translation": "трава"
+    },
+    {
+      "word": "waterfall",
+      "translation": "водопад"
+    },
+    {
+      "word": "river",
+      "translation": "река"
+    },
+    {
+      "word": "forest",
+      "translation": "лес"
+    },
+    {
+      "word": "mountain range",
+      "translation": "полуостровие"
+    },
+    {
+      "word": "city",
+      "translation": "город"
+    },
+    {
+      "word": "country",
+      "translation": "страна"
+    },
+    {
+      "word": "ocean",
+      "translation": "океан"
     }
   ]
-  
