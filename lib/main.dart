@@ -129,7 +129,13 @@ class _MainScreenState extends State<MainScreen> {
 
   void checkAnswer() {
   String userInput = _controller.text.trim().toLowerCase(); // Приводим пользовательский ввод к нижнему регистру
-  String correctWord = currentTranslation.trim().toLowerCase(); // Сравниваем с правильным английским словом
+
+  String correctWord;
+  if (isReviewMode) {
+    correctWord = currentWord.trim().toLowerCase(); // В режиме проверки ожидаем русский перевод
+  } else {
+    correctWord = currentTranslation.trim().toLowerCase(); // В обычном режиме ожидаем английское слово
+  }
 
   print('Пользовательский ввод: "$userInput"');
   print('Правильный ответ: "$correctWord"');
@@ -185,7 +191,7 @@ class _MainScreenState extends State<MainScreen> {
           padding: EdgeInsets.zero,
           children: [
             Container(
-              height: 220, // Увеличиваем высоту DrawerHeader
+              height: 260, // Увеличиваем высоту DrawerHeader
               child: DrawerHeader(
                 decoration: BoxDecoration(
                   color: const Color.fromARGB(255, 95, 178, 247),
@@ -196,7 +202,7 @@ class _MainScreenState extends State<MainScreen> {
                     Text(
                       'Словарь выученных слов',
                       style: TextStyle(
-                        color: Colors.white,
+                        color: const Color.fromARGB(255, 0, 136, 255),
                         fontSize: 22,
                       ),
                     ),
@@ -298,9 +304,17 @@ class _MainScreenState extends State<MainScreen> {
                 SizedBox(height: 10),
                 TextField(
                   controller: _controller,
+                  style: TextStyle(color: Colors.white),
                   decoration: InputDecoration(
                     border: OutlineInputBorder(),
                     labelText: 'Перевод',
+                    labelStyle: TextStyle(color: Colors.white),
+                    enabledBorder: OutlineInputBorder(
+                      borderSide: BorderSide(color: Colors.white), // Цвет границы, когда поле не в фокусе
+                    ),
+                    focusedBorder: OutlineInputBorder(
+                      borderSide: BorderSide(color: Colors.blue), // Цвет границы, когда поле в фокусе
+                    ),
                   ),
                 ),
                 SizedBox(height: 10),
@@ -311,6 +325,7 @@ class _MainScreenState extends State<MainScreen> {
                       onPressed: checkAnswer,
                       child: Text(isReviewMode ? 'Проверить' : 'Ответить'),
                       style: ElevatedButton.styleFrom(
+                        foregroundColor: Colors.white,
                         backgroundColor: const Color.fromARGB(255, 95, 178, 247),
                         padding: EdgeInsets.symmetric(horizontal: 20.0),
                         shape: RoundedRectangleBorder(
@@ -323,6 +338,7 @@ class _MainScreenState extends State<MainScreen> {
                       onPressed: isReviewMode ? returnToMainMenu : openReviewMode,
                       child: Text(isReviewMode ? 'Главное меню' : 'Режим проверки'),
                       style: ElevatedButton.styleFrom(
+                        foregroundColor: Colors.white,
                         backgroundColor: const Color.fromARGB(255, 156, 70, 48),
                         padding: EdgeInsets.symmetric(horizontal: 20.0),
                         shape: RoundedRectangleBorder(
